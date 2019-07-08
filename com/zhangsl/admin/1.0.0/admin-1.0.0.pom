@@ -21,6 +21,17 @@
         <github.global.server>github</github.global.server>
     </properties>
 
+    <repositories>
+        <repository>
+            <id>mvn-repo</id>
+            <url>https://raw.githubusercontent.com/SymbolLong/mvn-repo/master</url>
+            <snapshots>
+                <enabled>true</enabled>
+                <updatePolicy>always</updatePolicy>
+            </snapshots>
+        </repository>
+    </repositories>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
