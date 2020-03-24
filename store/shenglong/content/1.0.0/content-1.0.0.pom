@@ -11,7 +11,7 @@
     <groupId>store.shenglong</groupId>
     <artifactId>content</artifactId>
     <version>1.0.0</version>
-    <name>config</name>
+    <name>content</name>
     <description>Content project from Spring Boot</description>
 
     <properties>
